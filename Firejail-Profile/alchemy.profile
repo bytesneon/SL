@@ -27,3 +27,5 @@ whitelist ${HOME}/.alchemynext
 # You can use any other paths as needed
 whitelist ${HOME}/SL/SLProjects
 noblacklist ${HOME}/SL/SLProjects
+
+#Run with: firejail --profile=/etc/firejail/alchemy.profile ~/SL/Alchemy-Build/alchemy
